@@ -1,6 +1,6 @@
 ---
-name: Support Request
-about: A report on the problem you're facing!
+name: Question
+about: A question on the problem you're facing!
 title: ''
 labels: ''
 assignees: ''
