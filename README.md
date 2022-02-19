@@ -49,6 +49,7 @@ Good: The output in my terminal shows me I have a Syntax Error on line 23, from 
 
 # 2. Identify available resources and tools
 This is usually a quick step - only changes in a new environment. So pay particular attention when you start a new language/framework/part of the stack
+
 ### outcome
 A priority list of available resources
 
@@ -71,30 +72,47 @@ A priority list of available resources
 A good question to ask a teacher: “I’m stuck on xyz. I've identified these information sources as resources. Am I missing anything?” "is abc a good resource?"
 
 ### Examples
-Bad: No identified!
+Bad: None identified!
 Good: A good list of tools and resources!
 
 # 3. Create a query
-Questions are your main tool to get information. Questions are fantastic, amazing, and you should spend a lot of time asking questions and thinking about getting better at creating questions!
+Questions are your main tool to get information. Questions are fantastic, amazing, and you should spend a lot of time asking questions and thinking about getting better at creating questions! This is another skill we can improve!
 
 ### Outcome
-A question you can ask a teacher, a search term to look up in documentation, a query you can google
+A question you can ask a teacher, a useful print statement to add to your code, a search term to look up in documentation, a query you can google
 
-### Process
-1. Forming the query is tough!
-2. Create a good question
+### Process for research
+1. Identify key words.
+2. Identify broader context (eg language, skill, concept)
+3. Put them together
+
+### Process for visibility
+1. Identify the last place in your program that worked as expected
+2. Identify what information you need to reason better about your program
+3. add at least 1 print statement appropriately (eg above the erroring line), interrogating a variable, operation, return value, function call.
 	
 ### To improve
-A good process-oriented question to ask a teacher: “I’m stuck. Abc are the things I’ve noted. I’ve searched for information about xyz with “a search query”. What query would you have searched for?
+A good process-oriented question to ask a teacher: 
+- “I’m stuck. Abc are the things I’ve noted. I’ve searched for information about xyz with “a search query”. What query would you have searched for?
+- I've added print statements to get visibility at these points in my program, where else could I get better visibility?
 
 ### Examples
-Bad:
-Good:
+Bad: classes 
+Good: create instance of a class using new keyword in JS
+
+Bad: classes 
+Good: how does encapsulation in JS work using classes
+
+Bad: npm not working
+Good: [copy error message from terminal output from running npm command]
+
+Bad: No print statements added to code
+Good: A series of print statements with descriptions that interrogate your program at intentional points to give you useful visibility.
 
 #4. Query the available resources one at a time to get information.
 **Process**
     1. internal/external documentation (20mins)
-        - , videos, blogs, articles
+        documentation , videos, blogs, articles -> if it's searchable, jump to your chosen keywords and read above and below. If the video has timestamps, jump to the relevant section. Watch at 2x speed until content becomes relevant. Focus ruthlessly on your keywords - not much else is important right now. Write down information that seems relevant. It's possible to use this new information and repeat from Step 3 to narrow in on what you need.
     2. Peers (10mins)
     3. experts (raise a support ticket)
     
@@ -106,28 +124,35 @@ Bad: straight to experts, spending 100mins on (1)
 Good: move from one to another
 
 # 5. Understand and apply the information.
+This is the goal! All the work you've done so far is to get to this stage. Nice job so far. Take the smallest new thing you've read about it. Don't try to understand and apply everything at once: take small steps.
 
 ### Process
-1. explain what you've learned to yourself or a community member
-2. create small examples demonstrating applying the knowledge
-3. evaluate the information you have4
-4. apply it your work
+
+1. **Explain** what you've learned to yourself or a community member
+2. **Create** very small, simple examples demonstrating applying the knowledge
+3. **Evaluate** the new information you have learnt (is it enough?
+4. **Apply** it to your work 
+and/or
+5. **Create** new learning objectives if needed/wanted
     
 ### To improve
 Ask a teacher "I'm trying to understand about xyz from source abc. How can I get better at applying this information?
 
 ### Examples
-Bad:
-Good: 
+Bad: Doing lots of reading about a topic and **not** processing the information by explaining or creating.
+Good: Writing notes or summaries of understanding, using a REPL or playing around with code to test out new JS knowledge and concepts.
 
 # 6. Review the process
+Spend a short time reflecting on how you moved through the different stages - which feel easy, which feel hard. What can you do to improve?
 
 ### Outcome
 Specific, actionable feedback
 
 ### Process
-    1. Identify if there were any missed stages
-    2. Identify stages that took the most time.
+1. Reflect on how you feel going through these steps
+2. Identify if there were any missed stages
+3. Identify stages that took the least time.
+4. Identify stages that took the most time.
     
 ### To improve:** A good process-oriented question to ask a teacher: “how do you review a process?"
 
